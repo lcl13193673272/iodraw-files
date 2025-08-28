@@ -10,7 +10,7 @@
         <mxCell id="4UI3ZcLwx8-yspq_5bFX-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="200" y="140" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4UI3ZcLwx8-yspq_5bFX-3" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4UI3ZcLwx8-yspq_5bFX-3" value="DNA序列" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
