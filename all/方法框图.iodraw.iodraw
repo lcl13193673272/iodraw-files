@@ -94,6 +94,9 @@
         <mxCell id="DhlGkTwANUxseAa-5_gp-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="196.6" y="850" width="76.8" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DhlGkTwANUxseAa-5_gp-38" value="生物学特征统计" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="350" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
