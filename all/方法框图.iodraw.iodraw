@@ -46,7 +46,7 @@
         <mxCell id="DhlGkTwANUxseAa-5_gp-11" value="" style="whiteSpace=wrap;html=1;dashed=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="160" y="280" width="640" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="DhlGkTwANUxseAa-5_gp-12" value="A&lt;div&gt;A&lt;div&gt;T&lt;div&gt;G&lt;div&gt;G&lt;div&gt;G&lt;div&gt;T&lt;div&gt;G&lt;div&gt;T&lt;div&gt;G&lt;div&gt;T&lt;div&gt;G&lt;div&gt;G&lt;div&gt;&lt;div&gt;G&lt;div&gt;T&lt;div&gt;&lt;div&gt;G&lt;div&gt;G&lt;div&gt;G&lt;div&gt;T&lt;div&gt;&lt;div&gt;A&lt;div&gt;A&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DhlGkTwANUxseAa-5_gp-12" value="A&lt;div&gt;A&lt;div&gt;T&lt;div&gt;G&lt;div&gt;G&lt;div&gt;G&lt;div&gt;T&lt;div&gt;G&lt;div&gt;T&lt;div&gt;G&lt;div&gt;T&lt;div&gt;G&lt;div&gt;G&lt;div&gt;&lt;div&gt;G&lt;div&gt;T&lt;div&gt;&lt;div&gt;G&lt;div&gt;G&lt;div&gt;G&lt;div&gt;T&lt;div&gt;&lt;div&gt;A&lt;div&gt;A&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="325" width="30" height="300" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-16" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
@@ -80,7 +80,7 @@
           <mxGeometry x="458.39" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-27" value="构建词袋" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="560" y="420" width="60" height="30" as="geometry" />
+          <mxGeometry x="566.41" y="420" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="680.38" y="417.5" width="80" height="212.5" as="geometry" />
