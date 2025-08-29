@@ -44,49 +44,49 @@
           <mxGeometry x="642.82" y="101.75" width="101.54" height="61.32" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-11" value="" style="whiteSpace=wrap;html=1;dashed=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="140" y="770" width="640" height="410" as="geometry" />
+          <mxGeometry x="115.19" y="340" width="640" height="410" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-12" value="A&lt;div&gt;A&lt;div&gt;T&lt;div&gt;G&lt;div&gt;G&lt;div&gt;G&lt;div&gt;T&lt;div&gt;G&lt;div&gt;T&lt;div&gt;G&lt;div&gt;T&lt;div&gt;G&lt;div&gt;G&lt;div&gt;&lt;div&gt;G&lt;div&gt;T&lt;div&gt;&lt;div&gt;G&lt;div&gt;G&lt;div&gt;G&lt;div&gt;T&lt;div&gt;&lt;div&gt;A&lt;div&gt;A&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="225" y="332.5" width="30" height="305" as="geometry" />
+          <mxGeometry x="188.98" y="332.5" width="30" height="305" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-16" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="265" y="382.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="228.98" y="382.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="300" y="370" width="100" height="55" as="geometry" />
+          <mxGeometry x="263.98" y="370" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-19" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="265" y="530" width="30" height="30" as="geometry" />
+          <mxGeometry x="228.98" y="530" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="300" y="517.5" width="100" height="55" as="geometry" />
+          <mxGeometry x="263.98" y="517.5" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-21" value="生物学特征统计" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="295" y="382.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="258.98" y="382.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-22" value="k-mer词袋编码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="295" y="530" width="110" height="30" as="geometry" />
+          <mxGeometry x="258.98" y="530" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="440" y="390" width="350" height="270" as="geometry" />
+          <mxGeometry x="403.98" y="390" width="350" height="270" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="456.79" y="420" width="83.21" height="210" as="geometry" />
+          <mxGeometry x="420.77000000000004" y="420" width="83.21" height="210" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="550" y="417.5" width="130" height="212.5" as="geometry" />
+          <mxGeometry x="513.98" y="417.5" width="130" height="212.5" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-26" value="k-mer编码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="468.39" y="420" width="60" height="30" as="geometry" />
+          <mxGeometry x="432.37" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-27" value="构建词袋" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="580" y="420" width="70" height="30" as="geometry" />
+          <mxGeometry x="543.98" y="420" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="690.38" y="417.5" width="80" height="212.5" as="geometry" />
+          <mxGeometry x="654.36" y="417.5" width="80" height="212.5" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-29" value="特征向量化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="695.38" y="417.5" width="70" height="30" as="geometry" />
+          <mxGeometry x="659.36" y="417.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="186.59999999999997" y="856.33" width="103.4" height="30" as="geometry" />
@@ -224,7 +224,7 @@
           <mxGeometry x="414.99999999999994" y="142.73" width="47.18" height="33.21" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-122" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="405" y="530" width="30" height="30" as="geometry" />
+          <mxGeometry x="368.98" y="530" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
