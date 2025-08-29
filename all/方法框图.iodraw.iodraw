@@ -268,6 +268,9 @@
         <mxCell id="DhlGkTwANUxseAa-5_gp-142" value="" style="line;strokeWidth=2;html=1;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="69.34" width="40" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="DhlGkTwANUxseAa-5_gp-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" edge="1" parent="1" source="DhlGkTwANUxseAa-5_gp-143" target="DhlGkTwANUxseAa-5_gp-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-143" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据获取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="129.34" width="120" height="60" as="geometry" />
         </mxCell>
@@ -288,7 +291,7 @@
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-150" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="79.41" y="150.20999999999998" as="sourcePoint" />
+            <mxPoint x="80" y="120" as="sourcePoint" />
             <mxPoint x="79.41" y="75.20999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
