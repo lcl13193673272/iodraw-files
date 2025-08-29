@@ -266,7 +266,7 @@
           <mxGeometry x="650.38" y="517.49" width="31.14" height="25" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-141" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="50" y="94.07" width="120" height="60" as="geometry" />
+          <mxGeometry x="-380" y="524.07" width="980" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
