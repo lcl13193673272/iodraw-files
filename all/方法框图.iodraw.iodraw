@@ -59,13 +59,13 @@
           <mxGeometry x="430" y="390" width="320" height="270" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="446.79" y="480" width="60" height="155" as="geometry" />
+          <mxGeometry x="446.79" y="420" width="113.21" height="215" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="417.5" width="90" height="152.5" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-26" value="k-mer编码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="493.69" y="420" width="60" height="30" as="geometry" />
+          <mxGeometry x="473.39" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-27" value="构建词袋" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="585" y="420" width="60" height="30" as="geometry" />
