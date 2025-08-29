@@ -151,8 +151,8 @@
         <mxCell id="DhlGkTwANUxseAa-5_gp-72" value="LR" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="800" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DhlGkTwANUxseAa-5_gp-73" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="980" width="60" height="30" as="geometry" />
+        <mxCell id="DhlGkTwANUxseAa-5_gp-73" value="SVM" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="840" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
