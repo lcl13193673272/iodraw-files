@@ -173,10 +173,10 @@
           <mxGeometry x="546.41" y="800.17" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-79" value="Best SVM" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="575" y="842.67" width="60" height="30" as="geometry" />
+          <mxGeometry x="550" y="842.67" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-80" value="Best XGBoost" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="541.4100000000001" y="888.92" width="130" height="17.5" as="geometry" />
+          <mxGeometry x="525.0000000000001" y="887.67" width="130" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-81" value="Best CatBoost" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="546.41" y="922.67" width="120" height="30" as="geometry" />
