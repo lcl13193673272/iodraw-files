@@ -83,7 +83,7 @@
           <mxGeometry x="561.41" y="400" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="673.98" y="400" width="86.02" height="270" as="geometry" />
+          <mxGeometry x="680.38" y="400" width="86.02" height="270" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-29" value="特征向量化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="680.38" y="400" width="70" height="30" as="geometry" />
@@ -251,7 +251,7 @@
           <mxGeometry x="683.78" y="422.5" width="19.62" height="245" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-132" value="0&lt;div&gt;1&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;2&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;```&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;1&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;1&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=#d6b656;align=center;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="722.49" y="422.51" width="19.62" height="245" as="geometry" />
+          <mxGeometry x="735.57" y="422.5" width="19.62" height="245" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-133" value="DNAzyme&lt;div&gt;活性值&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="696.4" y="923.83" width="60" height="30" as="geometry" />
@@ -263,7 +263,7 @@
           <mxGeometry x="518.39" y="517.51" width="28.39" height="25" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-136" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=-181;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="650.38" y="517.58" width="20.76" height="25" as="geometry" />
+          <mxGeometry x="650.38" y="517.49" width="31.14" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
