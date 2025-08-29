@@ -53,7 +53,7 @@
           <mxGeometry x="365" y="340" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-22" value="k-mer词袋编码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="425" width="110" height="30" as="geometry" />
+          <mxGeometry x="365" y="470" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
