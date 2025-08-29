@@ -173,7 +173,7 @@
           <mxGeometry x="525" y="840" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-80" value="Best XGBoost" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="882.5" width="130" height="17.5" as="geometry" />
+          <mxGeometry x="491.41" y="886.25" width="130" height="17.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
