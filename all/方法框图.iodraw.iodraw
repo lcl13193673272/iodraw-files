@@ -14,10 +14,10 @@
           <mxGeometry x="449.31" y="150.21" width="148.77" height="18.26" as="geometry" />
         </mxCell>
         <mxCell id="4UI3ZcLwx8-yspq_5bFX-6" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#fff2cc;" parent="1" vertex="1">
-          <mxGeometry x="313.2" y="161.32" width="133.59" height="60" as="geometry" />
+          <mxGeometry x="313.2" y="175.13" width="133.59" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4UI3ZcLwx8-yspq_5bFX-3" value="DNA序列" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340.00000000000006" y="171.32" width="80" height="40" as="geometry" />
+          <mxGeometry x="340.00000000000006" y="180.13" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-1" value="AATGGGTGTGTGGGTGGGTAA" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="110.66" width="200" height="40" as="geometry" />
