@@ -164,6 +164,9 @@
           <mxGeometry x="500" y="730" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-77" value="Best RF" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DhlGkTwANUxseAa-5_gp-78" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="980" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
