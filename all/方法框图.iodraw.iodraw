@@ -16,11 +16,8 @@
         <mxCell id="DhlGkTwANUxseAa-5_gp-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="198.3" y="1090" width="120" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="DhlGkTwANUxseAa-5_gp-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DhlGkTwANUxseAa-5_gp-83" target="DhlGkTwANUxseAa-5_gp-106">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-83" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="790" width="130" height="142.5" as="geometry" />
+          <mxGeometry x="180" y="790" width="130" height="142.5" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-9" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="80" width="580" height="180" as="geometry" />
