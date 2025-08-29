@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="8Yl6nK31Leab3mbWI6CC">
-    <mxGraphModel dx="2000" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           <mxGeometry x="642.82" y="101.75" width="101.54" height="61.32" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-11" value="" style="whiteSpace=wrap;html=1;dashed=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-255" y="300" width="640" height="410" as="geometry" />
+          <mxGeometry x="160" y="290" width="640" height="410" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-12" value="A&lt;div&gt;A&lt;div&gt;T&lt;div&gt;G&lt;div&gt;G&lt;div&gt;G&lt;div&gt;T&lt;div&gt;G&lt;div&gt;T&lt;div&gt;G&lt;div&gt;T&lt;div&gt;G&lt;div&gt;G&lt;div&gt;&lt;div&gt;G&lt;div&gt;T&lt;div&gt;&lt;div&gt;G&lt;div&gt;G&lt;div&gt;G&lt;div&gt;T&lt;div&gt;&lt;div&gt;A&lt;div&gt;A&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="188.98" y="332.5" width="30" height="305" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="561.41" y="400" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="673.98" y="400" width="80" height="270" as="geometry" />
+          <mxGeometry x="673.98" y="400" width="86.02" height="270" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-29" value="特征向量化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="678.98" y="400" width="70" height="30" as="geometry" />
