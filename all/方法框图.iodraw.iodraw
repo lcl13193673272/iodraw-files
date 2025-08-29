@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DhlGkTwANUxseAa-5_gp-7" value="" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="90" y="40" width="710" height="700" as="geometry" />
+          <mxGeometry x="20" y="40" width="780" height="790" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-9" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="80" width="490" height="165" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="673.59" y="417.5" width="66.41" height="152.5" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-29" value="特征向量化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="380" width="60" height="30" as="geometry" />
+          <mxGeometry x="671.8" y="417.5" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
