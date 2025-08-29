@@ -80,16 +80,16 @@
           <mxGeometry x="546.41" y="360" width="103.59" height="279.34" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-26" value="k-mer编码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="444.81" y="369.34" width="60" height="30" as="geometry" />
+          <mxGeometry x="443.2" y="361.84" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-27" value="构建词袋" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="561.41" y="369.34" width="70" height="30" as="geometry" />
+          <mxGeometry x="560" y="364.34" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="680.38" y="360" width="86.02" height="279.34" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-29" value="特征向量化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="691.4" y="369.34" width="70" height="30" as="geometry" />
+          <mxGeometry x="690.1899999999999" y="361.84" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="186.59999999999997" y="816.33" width="103.4" height="30" as="geometry" />
