@@ -73,7 +73,7 @@
         <mxCell id="DhlGkTwANUxseAa-5_gp-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="673.59" y="417.5" width="66.41" height="152.5" as="geometry" />
         </mxCell>
-        <mxCell id="DhlGkTwANUxseAa-5_gp-29" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DhlGkTwANUxseAa-5_gp-29" value="特征向量化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
