@@ -173,9 +173,9 @@
           <mxGeometry x="546.41" y="813.66" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-79" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Best SVM&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="546.41" y="856.16" width="60" height="30" as="geometry" />
+          <mxGeometry x="530" y="856.16" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DhlGkTwANUxseAa-5_gp-80" value="&lt;span&gt;Best XGBoost&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DhlGkTwANUxseAa-5_gp-80" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Best XGBoost&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="530" y="902.41" width="96.79" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-81" value="&lt;span&gt;Best CatBoost&lt;/span&gt;" style="text;strokeColor=#82b366;align=center;fillColor=#d5e8d4;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
