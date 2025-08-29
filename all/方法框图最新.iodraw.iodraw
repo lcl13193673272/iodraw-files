@@ -319,6 +319,9 @@
         <mxCell id="DhlGkTwANUxseAa-5_gp-166" value="" style="line;strokeWidth=2;html=1;rounded=0;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="1040" width="40" height="0.66" as="geometry" />
         </mxCell>
+        <mxCell id="DhlGkTwANUxseAa-5_gp-167" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="44.07000000000005" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
