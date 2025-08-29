@@ -8,13 +8,13 @@
           <mxGeometry x="330" y="150" width="124.39" height="15.27" as="geometry" />
         </mxCell>
         <mxCell id="4UI3ZcLwx8-yspq_5bFX-6" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#fff2cc;" parent="1" vertex="1">
-          <mxGeometry x="176.41" y="140" width="107.19" height="60" as="geometry" />
+          <mxGeometry x="176.41" y="140" width="133.59" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4UI3ZcLwx8-yspq_5bFX-3" value="DNA序列" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="203.21" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-1" value="AATGGGTGTGTGGGTGGGTAA" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="100" width="200" height="40" as="geometry" />
+          <mxGeometry x="143.21" y="100" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
