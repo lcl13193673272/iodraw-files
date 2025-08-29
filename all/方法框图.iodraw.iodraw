@@ -187,7 +187,7 @@
         <mxCell id="DhlGkTwANUxseAa-5_gp-86" value="拼&lt;div&gt;接&lt;/div&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="335" y="818.66" width="20" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="DhlGkTwANUxseAa-5_gp-103" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=-181;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DhlGkTwANUxseAa-5_gp-103" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=-181;fontStyle=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="360" y="818.8299999999999" width="40" height="25" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-104" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=-181;fontStyle=1" vertex="1" parent="1">
