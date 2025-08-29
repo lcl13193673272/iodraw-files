@@ -14,7 +14,7 @@
           <mxGeometry x="456.79" y="154.86" width="124.39" height="15.27" as="geometry" />
         </mxCell>
         <mxCell id="4UI3ZcLwx8-yspq_5bFX-6" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#fff2cc;" parent="1" vertex="1">
-          <mxGeometry x="303.2" y="170.13" width="133.59" height="60" as="geometry" />
+          <mxGeometry x="313.2" y="170.13" width="133.59" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4UI3ZcLwx8-yspq_5bFX-3" value="DNA序列" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330.00000000000006" y="190.13" width="80" height="40" as="geometry" />
