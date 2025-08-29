@@ -86,7 +86,7 @@
           <mxGeometry x="315" y="720" width="305" height="260" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660.3800000000001" y="720" width="89.62" height="190" as="geometry" />
+          <mxGeometry x="660.38" y="720" width="89.62" height="260" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="198.29999999999998" y="790" width="103.4" height="30" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="200" y="790" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-39" value="k-mer词袋编码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="193.3" y="920" width="110" height="30" as="geometry" />
+          <mxGeometry x="195" y="890" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
