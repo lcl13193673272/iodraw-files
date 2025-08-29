@@ -26,13 +26,13 @@
           <mxGeometry x="419.31" y="150.21" width="148.77" height="18.26" as="geometry" />
         </mxCell>
         <mxCell id="4UI3ZcLwx8-yspq_5bFX-6" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#fff2cc;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="263.2" y="170.13" width="133.59" height="60" as="geometry" />
+          <mxGeometry x="248.2" y="170.13" width="133.59" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4UI3ZcLwx8-yspq_5bFX-3" value="DNA序列" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="290.00000000000006" y="186.79" width="80" height="40" as="geometry" />
+          <mxGeometry x="275.00000000000006" y="186.79" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-1" value="AATGGGTGTGTGGGTGGGTAA" style="text;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="230" y="112.32" width="200" height="40" as="geometry" />
+          <mxGeometry x="215" y="112.32" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-2" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#fff2cc;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="590" y="170.13" width="133.59" height="60" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="606.0300000000001" y="100" width="101.54" height="61.32" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-11" value="" style="whiteSpace=wrap;html=1;dashed=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="160" y="280" width="640" height="410" as="geometry" />
+          <mxGeometry x="160" y="300" width="640" height="410" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-12" value="A&lt;div&gt;A&lt;div&gt;T&lt;div&gt;G&lt;div&gt;G&lt;div&gt;G&lt;div&gt;T&lt;div&gt;G&lt;div&gt;T&lt;div&gt;G&lt;div&gt;T&lt;div&gt;G&lt;div&gt;G&lt;div&gt;&lt;div&gt;G&lt;div&gt;T&lt;div&gt;&lt;div&gt;G&lt;div&gt;G&lt;div&gt;G&lt;div&gt;T&lt;div&gt;&lt;div&gt;A&lt;div&gt;A&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="332.5" width="30" height="305" as="geometry" />
