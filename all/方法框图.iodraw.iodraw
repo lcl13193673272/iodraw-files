@@ -50,22 +50,22 @@
           <mxGeometry x="220" y="332.5" width="30" height="305" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-16" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="270" y="382.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="255" y="382.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="315" y="370" width="100" height="55" as="geometry" />
+          <mxGeometry x="300" y="370" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-19" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="270" y="530" width="30" height="30" as="geometry" />
+          <mxGeometry x="255" y="530" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="315" y="517.5" width="100" height="55" as="geometry" />
+          <mxGeometry x="300" y="517.5" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-21" value="生物学特征统计" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="310" y="382.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="295" y="382.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-22" value="k-mer词袋编码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="310" y="530" width="110" height="30" as="geometry" />
+          <mxGeometry x="295" y="530" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="430" y="390" width="350" height="270" as="geometry" />
@@ -222,6 +222,9 @@
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-120" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=none;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="414.99999999999994" y="142.73" width="47.18" height="33.21" as="geometry" />
+        </mxCell>
+        <mxCell id="DhlGkTwANUxseAa-5_gp-122" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="265" y="540" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
