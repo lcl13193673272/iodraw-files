@@ -86,7 +86,7 @@
           <mxGeometry x="673.98" y="400" width="86.02" height="270" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-29" value="特征向量化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="685.1899999999999" y="400" width="70" height="30" as="geometry" />
+          <mxGeometry x="680.38" y="400" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="186.59999999999997" y="856.33" width="103.4" height="30" as="geometry" />
@@ -238,7 +238,7 @@
         <mxCell id="DhlGkTwANUxseAa-5_gp-127" value="" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="490.00000000000006" y="425" width="20" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="DhlGkTwANUxseAa-5_gp-128" value="G&lt;div&gt;A&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="DhlGkTwANUxseAa-5_gp-128" value="G&lt;div&gt;A&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;" style="text;strokeColor=#d6b656;align=center;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="438.39" y="439.38" width="18.78" height="211.25" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-129" value="G&lt;div&gt;T&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;T&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;T&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="1">
