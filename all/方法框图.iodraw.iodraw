@@ -253,8 +253,8 @@
         <mxCell id="DhlGkTwANUxseAa-5_gp-132" value="0&lt;div&gt;1&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;2&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;```&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;1&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;1&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=#d6b656;align=center;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="722.49" y="422.51" width="19.62" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="DhlGkTwANUxseAa-5_gp-133" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="850" width="60" height="30" as="geometry" />
+        <mxCell id="DhlGkTwANUxseAa-5_gp-133" value="DNAzyme&lt;div&gt;活性值&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="693.98" y="953.83" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
