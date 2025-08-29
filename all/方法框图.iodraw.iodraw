@@ -187,8 +187,8 @@
         <mxCell id="DhlGkTwANUxseAa-5_gp-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="760" width="30" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="DhlGkTwANUxseAa-5_gp-86" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="980" width="60" height="30" as="geometry" />
+        <mxCell id="DhlGkTwANUxseAa-5_gp-86" value="拼&lt;div&gt;接&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="980" width="20" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
