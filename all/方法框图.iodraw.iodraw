@@ -74,16 +74,16 @@
           <mxGeometry x="428" y="400" width="90.39" height="270" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="526.41" y="418.75" width="130" height="251.25" as="geometry" />
+          <mxGeometry x="526.41" y="400" width="130" height="270" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-26" value="k-mer编码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="444.81" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-27" value="构建词袋" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="554.81" y="418.75" width="70" height="30" as="geometry" />
+          <mxGeometry x="554.81" y="400" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="673.98" y="418.75" width="80" height="212.5" as="geometry" />
+          <mxGeometry x="673.98" y="400" width="80" height="231.25" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-29" value="特征向量化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="678.98" y="418.75" width="70" height="30" as="geometry" />
