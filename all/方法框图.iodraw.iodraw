@@ -269,7 +269,10 @@
           <mxGeometry x="70" y="69.34" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-143" value="数据获取" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="118.53999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DhlGkTwANUxseAa-5_gp-144" value="数据获取" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="128.54" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
