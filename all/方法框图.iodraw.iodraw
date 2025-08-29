@@ -17,7 +17,7 @@
           <mxGeometry x="143.21" y="100" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-2" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="440" y="140" width="133.59" height="60" as="geometry" />
+          <mxGeometry x="480" y="140" width="133.59" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
