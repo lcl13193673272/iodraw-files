@@ -80,7 +80,7 @@
           <mxGeometry x="441.22" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-27" value="构建词袋" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="557.01" y="420" width="70" height="30" as="geometry" />
+          <mxGeometry x="554.81" y="418.75" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="673.98" y="418.75" width="80" height="212.5" as="geometry" />
