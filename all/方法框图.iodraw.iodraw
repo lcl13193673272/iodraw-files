@@ -17,7 +17,7 @@
           <mxGeometry x="175" y="740" width="130" height="302.33" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="180" y="852.33" width="120" height="110" as="geometry" />
+          <mxGeometry x="180" y="843.83" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-9" value="" style="whiteSpace=wrap;html=1;dashed=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="180" y="69.34" width="580" height="180" as="geometry" />
@@ -89,16 +89,16 @@
           <mxGeometry x="665" y="417.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="186.59999999999997" y="864.83" width="103.4" height="30" as="geometry" />
+          <mxGeometry x="186.59999999999997" y="856.33" width="103.4" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="186.59999999999997" y="922.33" width="103.4" height="30" as="geometry" />
+          <mxGeometry x="186.59999999999997" y="913.83" width="103.4" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-38" value="生物学特征统计" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="188.29999999999998" y="864.83" width="100" height="30" as="geometry" />
+          <mxGeometry x="188.29999999999998" y="856.33" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-39" value="k-mer词袋编码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="180" y="922.33" width="110" height="30" as="geometry" />
+          <mxGeometry x="180" y="913.83" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="400" y="856.16" width="70" height="30" as="geometry" />
