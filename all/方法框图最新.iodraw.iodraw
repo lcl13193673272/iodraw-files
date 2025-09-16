@@ -335,12 +335,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WW3S6EWlQiXwASKIpzYw-22" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="WW3S6EWlQiXwASKIpzYw-22" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="WW3S6EWlQiXwASKIpzYw-12">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="290" y="1280" as="sourcePoint" />
             <mxPoint x="210" y="1280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="250" y="1300" />
+              <mxPoint x="290" y="1300" />
+              <mxPoint x="210" y="1300" />
+              <mxPoint x="210" y="1261" />
             </Array>
           </mxGeometry>
         </mxCell>
