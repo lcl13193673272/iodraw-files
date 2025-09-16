@@ -311,7 +311,7 @@
           <mxGeometry x="109.73000000000006" y="1210" width="95.27" height="87.78" as="geometry" />
         </mxCell>
         <mxCell id="WW3S6EWlQiXwASKIpzYw-10" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="200.8" y="1220" width="75" height="14.55" as="geometry" />
+          <mxGeometry x="240.89" y="1200" width="75" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
