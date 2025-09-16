@@ -325,6 +325,23 @@
             <mxPoint x="270" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WW3S6EWlQiXwASKIpzYw-17" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="205" y="1100" as="sourcePoint" />
+            <mxPoint x="285" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="205" y="1090" />
+              <mxPoint x="230" y="1090" />
+              <mxPoint x="230" y="1080" />
+              <mxPoint x="285" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WW3S6EWlQiXwASKIpzYw-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WW3S6EWlQiXwASKIpzYw-17">
+          <mxGeometry x="0.425" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
