@@ -313,6 +313,9 @@
         <mxCell id="WW3S6EWlQiXwASKIpzYw-2" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="290.39" y="142.73" width="47.18" height="33.21" as="geometry" />
         </mxCell>
+        <mxCell id="WW3S6EWlQiXwASKIpzYw-5" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
