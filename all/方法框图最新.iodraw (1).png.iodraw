@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="8Yl6nK31Leab3mbWI6CC">
-    <mxGraphModel dx="1380" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -230,7 +230,7 @@
           <mxGeometry x="490" y="404.34" width="18.78" height="211.25" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-130" value="AAA&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;TTT&lt;/span&gt;&lt;div&gt;&lt;div&gt;ATG&lt;/div&gt;&lt;div&gt;TAG&lt;/div&gt;&lt;div&gt;TGA&lt;/div&gt;&lt;div&gt;CGG&lt;/div&gt;&lt;div&gt;GCG&lt;/div&gt;&lt;div&gt;GAA&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;GTG&lt;/div&gt;&lt;div&gt;TTT&lt;/div&gt;&lt;div&gt;ACG&lt;/div&gt;&lt;div&gt;CCT&lt;/div&gt;&lt;div&gt;CGA&lt;/div&gt;&lt;div&gt;GTC&lt;/div&gt;&lt;div&gt;GAA&lt;/div&gt;" style="text;strokeColor=#d6b656;align=center;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="557.42" y="390" width="77.99" height="234.34" as="geometry" />
+          <mxGeometry x="560.41" y="390" width="77.99" height="234.34" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-131" value="0&lt;div&gt;0&lt;/div&gt;&lt;div&gt;1&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;```&lt;/div&gt;&lt;div&gt;3&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;1&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;1&lt;/div&gt;" style="text;strokeColor=#d6b656;align=center;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="696.4000000000001" y="390" width="19.62" height="238.16" as="geometry" />
