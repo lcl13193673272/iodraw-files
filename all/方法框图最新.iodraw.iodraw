@@ -471,7 +471,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WW3S6EWlQiXwASKIpzYw-50" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#000000;fillStyle=auto;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="WW3S6EWlQiXwASKIpzYw-50" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#d79b00;fillStyle=auto;fillColor=#ffcd28;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="267.28000000000003" y="1159" width="21.02" height="10" as="geometry" />
         </mxCell>
       </root>
