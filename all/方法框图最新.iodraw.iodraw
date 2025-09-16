@@ -504,10 +504,13 @@
           <mxGeometry x="368.98" y="1260" width="46.02" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WW3S6EWlQiXwASKIpzYw-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440.21999999999997" y="1230" width="20.39" height="10" as="geometry" />
+          <mxGeometry x="419.55999999999995" y="1184.38" width="20.39" height="10" as="geometry" />
         </mxCell>
         <mxCell id="WW3S6EWlQiXwASKIpzYw-62" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="435.66" y="1245.06" width="29.56" height="20.56" as="geometry" />
+          <mxGeometry x="415" y="1199.44" width="29.56" height="20.56" as="geometry" />
+        </mxCell>
+        <mxCell id="WW3S6EWlQiXwASKIpzYw-63" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="415" y="1280" width="29.56" height="20.56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
