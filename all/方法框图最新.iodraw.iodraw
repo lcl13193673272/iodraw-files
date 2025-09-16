@@ -344,11 +344,11 @@
         </mxCell>
         <mxCell id="WW3S6EWlQiXwASKIpzYw-29" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;curved=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="283.88" y="1260" as="sourcePoint" />
-            <mxPoint x="320" y="1260.22" as="targetPoint" />
+            <mxPoint x="283.88" y="1250" as="sourcePoint" />
+            <mxPoint x="320" y="1240" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="284" y="1280.22" />
-              <mxPoint x="320" y="1280.22" />
+              <mxPoint x="284" y="1270.22" />
+              <mxPoint x="320" y="1270.22" />
             </Array>
           </mxGeometry>
         </mxCell>
