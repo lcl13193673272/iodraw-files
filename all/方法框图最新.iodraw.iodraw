@@ -369,13 +369,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WW3S6EWlQiXwASKIpzYw-32" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;strokeWidth=2;entryX=0.34;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="WW3S6EWlQiXwASKIpzYw-33" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="300" y="1287.78" as="sourcePoint" />
-            <mxPoint x="300.4" y="1296.94775" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="420" y="1297.78" />
-            </Array>
+            <mxPoint x="320" y="1220" as="sourcePoint" />
+            <mxPoint x="400" y="1220" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
