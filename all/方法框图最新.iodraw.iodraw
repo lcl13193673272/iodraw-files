@@ -335,7 +335,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WW3S6EWlQiXwASKIpzYw-28" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="WW3S6EWlQiXwASKIpzYw-28" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeWidth=1;endArrow=block;endFill=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="320" y="1199.45" as="sourcePoint" />
             <mxPoint x="320" y="1260" as="targetPoint" />
