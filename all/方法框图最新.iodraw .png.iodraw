@@ -68,10 +68,10 @@
           <mxGeometry x="546.41" y="350" width="103.59" height="289.34" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-26" value="k-mer编码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="443.2" y="361.84" width="60" height="30" as="geometry" />
+          <mxGeometry x="443.19" y="351.84" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-27" value="构建词袋" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="560" y="364.34" width="70" height="30" as="geometry" />
+          <mxGeometry x="564.4" y="351.84" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="680.38" y="350" width="86.02" height="289.34" as="geometry" />
