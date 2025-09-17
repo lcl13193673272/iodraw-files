@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="8Yl6nK31Leab3mbWI6CC">
-    <mxGraphModel dx="261" dy="169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="938" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -230,7 +230,7 @@
           <mxGeometry x="438.61" y="371.58" width="18.78" height="265" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-129" value="G&lt;div&gt;T&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;T&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;T&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;A&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;T&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="487.81" y="367.5" width="18.78" height="270" as="geometry" />
+          <mxGeometry x="487.81" y="369.08" width="18.78" height="270" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-130" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TGCA&lt;/div&gt;&lt;div&gt;AAGG&lt;/div&gt;&lt;div&gt;GCTG&lt;/div&gt;GAGG&lt;br&gt;&lt;div&gt;&lt;div&gt;AGGC&lt;br&gt;&lt;div&gt;&lt;div&gt;GGGA&lt;/div&gt;&lt;div&gt;TAGG&lt;/div&gt;&lt;div&gt;···&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;···&lt;/div&gt;&lt;div&gt;···&lt;/div&gt;&lt;div&gt;···&lt;/div&gt;&lt;div&gt;AGCA&lt;/div&gt;&lt;div&gt;CCTC&lt;/div&gt;&lt;div&gt;CGAA&lt;/div&gt;&lt;div&gt;GTCT&lt;/div&gt;&lt;div&gt;GAAA&lt;/div&gt;&lt;div&gt;TGGA&lt;/div&gt;&lt;div&gt;ACCT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=#d6b656;align=center;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="557.41" y="368.16" width="80" height="270" as="geometry" />
