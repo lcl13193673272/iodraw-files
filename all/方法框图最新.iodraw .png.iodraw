@@ -62,10 +62,10 @@
           <mxGeometry x="409" y="329.34" width="371" height="330" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="428" y="350" width="90.39" height="289.34" as="geometry" />
+          <mxGeometry x="428" y="350" width="90.39" height="300" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="546.41" y="350" width="103.59" height="289.34" as="geometry" />
+          <mxGeometry x="546.41" y="350" width="103.59" height="300" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-26" value="k-mer编码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="443.19" y="350" width="60" height="18.16" as="geometry" />
