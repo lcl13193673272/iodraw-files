@@ -224,10 +224,10 @@
           <mxGeometry x="490" y="380" width="20" height="244.34" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-128" value="G&lt;div&gt;A&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="440.22" y="404.34" width="18.78" height="211.25" as="geometry" />
+          <mxGeometry x="440.22" y="380" width="18.78" height="235.59" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-129" value="G&lt;div&gt;T&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;T&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;T&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="404.34" width="18.78" height="211.25" as="geometry" />
+          <mxGeometry x="490" y="380" width="18.78" height="235.59" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-130" value="AAA&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;TTT&lt;/span&gt;&lt;div&gt;&lt;div&gt;ATG&lt;/div&gt;&lt;div&gt;TAG&lt;/div&gt;&lt;div&gt;TGA&lt;/div&gt;&lt;div&gt;CGG&lt;/div&gt;&lt;div&gt;GCG&lt;/div&gt;&lt;div&gt;GAA&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;GTG&lt;/div&gt;&lt;div&gt;TTT&lt;/div&gt;&lt;div&gt;ACG&lt;/div&gt;&lt;div&gt;CCT&lt;/div&gt;&lt;div&gt;CGA&lt;/div&gt;&lt;div&gt;GTC&lt;/div&gt;&lt;div&gt;GAA&lt;/div&gt;" style="text;strokeColor=#d6b656;align=center;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="560.41" y="380" width="77.99" height="244.34" as="geometry" />
