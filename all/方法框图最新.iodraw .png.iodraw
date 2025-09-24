@@ -140,10 +140,10 @@
           <mxGeometry x="420.2100000000001" y="1479.9999999999998" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-80" value="&lt;span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Best XGBoost&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="692.01" y="1496.8200000000002" width="95.59" height="23.18" as="geometry" />
+          <mxGeometry x="420" y="1520" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-81" value="&lt;span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Best CatBoost&lt;/font&gt;&lt;/span&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="700.0000000000001" y="1529.99" width="100" height="30" as="geometry" />
+          <mxGeometry x="420.0000000000001" y="1559.99" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="242.09" y="1399.99" width="30" height="270.01" as="geometry" />
