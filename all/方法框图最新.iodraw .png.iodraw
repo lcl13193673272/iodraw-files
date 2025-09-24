@@ -134,10 +134,10 @@
           <mxGeometry x="413.99999999999994" y="1372.4999999999998" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-78" value="&lt;span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Best LR&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="721.4" y="1402.4999999999998" width="60" height="30" as="geometry" />
+          <mxGeometry x="420.21" y="1440" width="99.79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-79" value="&lt;span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Best SVM&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="706.4100000000001" y="1442.4999999999998" width="100" height="30" as="geometry" />
+          <mxGeometry x="420.2100000000001" y="1479.9999999999998" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-80" value="&lt;span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Best XGBoost&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="692.01" y="1496.8200000000002" width="95.59" height="23.18" as="geometry" />
