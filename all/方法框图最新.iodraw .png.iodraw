@@ -202,9 +202,6 @@
         <mxCell id="DhlGkTwANUxseAa-5_gp-133" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;DNAzyme&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;活性标签&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="717.5999999999999" y="872.0800000000002" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DhlGkTwANUxseAa-5_gp-134" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=-181;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="300.04" y="874.58" width="40" height="29.67" as="geometry" />
-        </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-135" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=-181;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="518.39" y="486.84999999999997" width="28.39" height="25" as="geometry" />
         </mxCell>
@@ -481,9 +478,6 @@
         </mxCell>
         <mxCell id="WW3S6EWlQiXwASKIpzYw-118" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="282.82" y="142.73" width="47.18" height="33.21" as="geometry" />
-        </mxCell>
-        <mxCell id="MsRqPvyNqlliB7Pm9btr-2" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=-181;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="674.8900000000001" y="848.1600000000001" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="utroHQETzUPRYkz2ZPV3-3" value="&lt;div&gt;0&lt;/div&gt;0&lt;div&gt;1&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;2&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;```&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;1&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;1&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;&lt;div&gt;0&lt;/div&gt;" style="text;strokeColor=#d6b656;align=center;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="367.77" width="19.62" height="269.73" as="geometry" />
