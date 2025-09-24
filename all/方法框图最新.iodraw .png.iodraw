@@ -131,7 +131,7 @@
           <mxGeometry x="317.09000000000003" y="1559.6599999999999" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-76" value="&lt;span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;集成学习框架&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="602.8199999999999" y="1387.6599999999999" width="110" height="30" as="geometry" />
+          <mxGeometry x="413.99999999999994" y="1372.4999999999998" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DhlGkTwANUxseAa-5_gp-77" value="&lt;span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Best RF&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="624.8199999999999" y="1420.33" width="60" height="30" as="geometry" />
