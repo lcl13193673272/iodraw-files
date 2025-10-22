@@ -13,7 +13,7 @@
         <mxCell id="fCEZnV-r36GcljSFJMaJ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="159" y="250" width="500" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fCEZnV-r36GcljSFJMaJ-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;结合现有的G-四链体判定工具和&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;本方法的G-四链体活性分类&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;判定工具构造奖励函数反向更新生成模型&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fCEZnV-r36GcljSFJMaJ-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;结合现有的G-四链体判定工具和&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;本方法的G-四链体活性分类&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;判定工具构造奖励函数反向更新生成模型的&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="159" y="370" width="500" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fCEZnV-r36GcljSFJMaJ-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
