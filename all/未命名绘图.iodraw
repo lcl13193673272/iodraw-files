@@ -43,6 +43,9 @@
             <mxPoint x="408.5" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="eFYRSpYCUwSS9oCRwWhU-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;对模型生成的序列进行湿实验效果验证&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="450" width="500" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
