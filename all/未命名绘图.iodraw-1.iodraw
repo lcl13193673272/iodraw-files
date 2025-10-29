@@ -44,7 +44,13 @@
           <mxGeometry x="500" y="187.5" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="TGLY_zJW17zT4RdKB2T2-25" value="文献获取已知G4序列" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="217.5" width="80" height="45" as="geometry" />
+          <mxGeometry x="660" y="187.5" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="TGLY_zJW17zT4RdKB2T2-26" value="文献获取已知G4序列" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="317.5" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="TGLY_zJW17zT4RdKB2T2-27" value="文献获取已知G4序列" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="237.5" width="80" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
