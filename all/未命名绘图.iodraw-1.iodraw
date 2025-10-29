@@ -37,7 +37,7 @@
         <mxCell id="TGLY_zJW17zT4RdKB2T2-22" value="文献获取已知G4序列" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-30" y="187.5" width="80" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="TGLY_zJW17zT4RdKB2T2-23" value="文献获取已知G4序列" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TGLY_zJW17zT4RdKB2T2-23" value="湿实验测定&lt;br&gt;序列活性" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="187.5" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="TGLY_zJW17zT4RdKB2T2-24" value="文献获取已知G4序列" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -62,7 +62,7 @@
           <mxGeometry x="830" y="267.5" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="TGLY_zJW17zT4RdKB2T2-31" value="文献获取已知G4序列" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="377.5" width="80" height="45" as="geometry" />
+          <mxGeometry x="1010" y="267.5" width="80" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
