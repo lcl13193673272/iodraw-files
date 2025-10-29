@@ -34,7 +34,7 @@
         <mxCell id="TGLY_zJW17zT4RdKB2T2-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1200" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGLY_zJW17zT4RdKB2T2-22" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TGLY_zJW17zT4RdKB2T2-22" value="文献获取已知G4序列&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
