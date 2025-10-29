@@ -20,7 +20,7 @@
           <mxGeometry x="60" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGLY_zJW17zT4RdKB2T2-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGLY_zJW17zT4RdKB2T2-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="340" width="120" height="60" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="270" y="187.5" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="TGLY_zJW17zT4RdKB2T2-25" value="训练ML&lt;br&gt;活性判别器" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="187.5" width="80" height="45" as="geometry" />
+          <mxGeometry x="450" y="187.5" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="TGLY_zJW17zT4RdKB2T2-26" value="多物种G4-seq高通量数据" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="347.5" width="80" height="45" as="geometry" />
@@ -78,8 +78,8 @@
         </mxCell>
         <mxCell id="TGLY_zJW17zT4RdKB2T2-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="230" as="sourcePoint" />
-            <mxPoint x="130" y="230" as="targetPoint" />
+            <mxPoint x="390" y="209.57999999999998" as="sourcePoint" />
+            <mxPoint x="430" y="209.57999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
