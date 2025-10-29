@@ -53,9 +53,9 @@
           <mxGeometry x="230" y="347.5" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="TGLY_zJW17zT4RdKB2T2-28" value="微调Evo2&lt;br&gt;生成基础G4序列" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="347.5" width="100" height="45" as="geometry" />
+          <mxGeometry x="370" y="347.5" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="TGLY_zJW17zT4RdKB2T2-29" value="文献获取已知G4序列" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TGLY_zJW17zT4RdKB2T2-29" value="构建多目标奖励函数" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="267.5" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="TGLY_zJW17zT4RdKB2T2-30" value="文献获取已知G4序列" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
