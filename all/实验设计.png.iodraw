@@ -142,6 +142,12 @@
             <mxPoint x="560" y="449.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uEqr-rNx_KWpaHm4reJU-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEqr-rNx_KWpaHm4reJU-26" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生成PQS&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="437.5" width="120" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
