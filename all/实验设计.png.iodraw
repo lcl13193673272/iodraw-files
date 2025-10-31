@@ -154,8 +154,8 @@
         <mxCell id="uEqr-rNx_KWpaHm4reJU-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=17.93;direction=south;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="576" y="359.5" width="24" height="90.5" as="geometry" />
         </mxCell>
-        <mxCell id="uEqr-rNx_KWpaHm4reJU-41" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=70.67;rounded=0;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="760" y="230" width="90" height="150" as="geometry" />
+        <mxCell id="uEqr-rNx_KWpaHm4reJU-42" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=17.93;direction=south;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="586" y="369.5" width="24" height="90.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
