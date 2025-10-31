@@ -49,7 +49,7 @@
         <mxCell id="TGLY_zJW17zT4RdKB2T2-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;微调Evo2&lt;br&gt;生成基础G4序列&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="417.5" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="TGLY_zJW17zT4RdKB2T2-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;高活性G4&lt;br&gt;生成器&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="TGLY_zJW17zT4RdKB2T2-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;G4生成器&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="590" y="457.5" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="TGLY_zJW17zT4RdKB2T2-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="TGLY_zJW17zT4RdKB2T2-14" edge="1">
