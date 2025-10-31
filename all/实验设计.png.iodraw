@@ -124,18 +124,6 @@
             <mxPoint x="400" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uEqr-rNx_KWpaHm4reJU-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=8.275862068965518;endSize=8.324137931034484;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380.00000000000006" y="382.5" as="sourcePoint" />
-            <mxPoint x="380.12" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uEqr-rNx_KWpaHm4reJU-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=8.275862068965518;endSize=8.324137931034484;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540.0000000000001" y="382.5" as="sourcePoint" />
-            <mxPoint x="540.12" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uEqr-rNx_KWpaHm4reJU-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="449.80000000000007" as="sourcePoint" />
@@ -159,20 +147,6 @@
         </mxCell>
         <mxCell id="uEqr-rNx_KWpaHm4reJU-32" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;sequence&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="720" y="427.5" width="120" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="uEqr-rNx_KWpaHm4reJU-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="180" as="sourcePoint" />
-            <mxPoint x="720" y="480" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="760" y="260" />
-              <mxPoint x="690" y="430" />
-              <mxPoint x="710" y="270" />
-              <mxPoint x="690" y="300" />
-              <mxPoint x="580" y="440" />
-              <mxPoint x="780" y="290" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
