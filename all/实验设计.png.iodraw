@@ -5,13 +5,13 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="TGLY_zJW17zT4RdKB2T2-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="420" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGLY_zJW17zT4RdKB2T2-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-130" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGLY_zJW17zT4RdKB2T2-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="610" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGLY_zJW17zT4RdKB2T2-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="180" width="120" height="60" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry x="190" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGLY_zJW17zT4RdKB2T2-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;文献获取已知G4序列&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="420" y="67.5" width="120" height="45" as="geometry" />
+          <mxGeometry x="400" y="67.5" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="TGLY_zJW17zT4RdKB2T2-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;湿实验测定&lt;br&gt;序列活性&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="610" y="47.5" width="120" height="45" as="geometry" />
+          <mxGeometry x="600" y="67.5" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="TGLY_zJW17zT4RdKB2T2-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;构建Sequence-Activity数据对526条&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="187.5" width="120" height="45" as="geometry" />
