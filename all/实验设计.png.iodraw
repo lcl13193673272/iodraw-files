@@ -82,12 +82,12 @@
             <mxPoint x="300" y="429.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGLY_zJW17zT4RdKB2T2-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="TGLY_zJW17zT4RdKB2T2-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" source="TGLY_zJW17zT4RdKB2T2-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="380" as="sourcePoint" />
             <mxPoint x="630" y="290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="380" />
+              <mxPoint x="560" y="430" />
               <mxPoint x="560" y="290" />
             </Array>
           </mxGeometry>
