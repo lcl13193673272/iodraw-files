@@ -155,19 +155,7 @@
           <mxGeometry x="340" y="298.67" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mr1ayuhmPwogSzmVovjd-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;G4Hunter&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;amp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;G4ShapePredictor&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="349.25" y="161.99999999999997" width="120" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="mr1ayuhmPwogSzmVovjd-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="298.67" width="140" height="61.33" as="geometry" />
-        </mxCell>
-        <mxCell id="mr1ayuhmPwogSzmVovjd-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=17.93;direction=south;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="619.25" y="359.99999999999994" width="21.5" height="90.5" as="geometry" />
-        </mxCell>
-        <mxCell id="mr1ayuhmPwogSzmVovjd-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="559.25" y="450" as="sourcePoint" />
-            <mxPoint x="720" y="450" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="354" y="306.16999999999996" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
