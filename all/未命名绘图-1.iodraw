@@ -113,10 +113,10 @@
           <mxGeometry x="354" y="306.16999999999996" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="uEqr-rNx_KWpaHm4reJU-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="470" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uEqr-rNx_KWpaHm4reJU-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;PQS(Score≥1.2)&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="470" y="427.5" width="120" height="45" as="geometry" />
+          <mxGeometry x="440" y="427.5" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="uEqr-rNx_KWpaHm4reJU-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -156,6 +156,12 @@
         </mxCell>
         <mxCell id="uEqr-rNx_KWpaHm4reJU-44" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=17.93;direction=south;notch=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="859.25" y="359.5" width="21.5" height="90.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mr1ayuhmPwogSzmVovjd-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="298.66999999999996" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mr1ayuhmPwogSzmVovjd-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;G4Hunter&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="306.16999999999996" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
