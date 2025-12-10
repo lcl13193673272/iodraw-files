@@ -157,10 +157,10 @@
         <mxCell id="mr1ayuhmPwogSzmVovjd-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;G4Hunter&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;amp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;G4ShapePredictor&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="306.16999999999996" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="mr1ayuhmPwogSzmVovjd-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mr1ayuhmPwogSzmVovjd-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="uEqr-rNx_KWpaHm4reJU-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="459" as="sourcePoint" />
-            <mxPoint x="450" y="459.16999999999996" as="targetPoint" />
+            <mxPoint x="560" y="449" as="sourcePoint" />
+            <mxPoint x="620" y="449.16999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
