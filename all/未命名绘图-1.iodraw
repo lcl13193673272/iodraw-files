@@ -163,6 +163,12 @@
         <mxCell id="mr1ayuhmPwogSzmVovjd-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;G4Hunter&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="306.16999999999996" width="120" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="mr1ayuhmPwogSzmVovjd-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="298.67" width="140" height="61.33" as="geometry" />
+        </mxCell>
+        <mxCell id="mr1ayuhmPwogSzmVovjd-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;G4ShapePredictor&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="306.17" width="120" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
