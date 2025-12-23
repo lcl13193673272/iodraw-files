@@ -35,7 +35,7 @@
           <mxGeometry x="460" y="295" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-13" value="Feedforward Networks" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="170" width="130" height="30" as="geometry" />
+          <mxGeometry x="460" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-14" value="×N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="220" width="40" height="30" as="geometry" />
