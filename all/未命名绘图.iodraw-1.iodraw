@@ -68,7 +68,7 @@
           <mxGeometry x="80" y="590" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-26" value="G4Hunter" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="600" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="110" y="540" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
