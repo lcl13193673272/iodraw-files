@@ -15,8 +15,8 @@
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="99.66000000000003" y="120" as="sourcePoint" />
-            <mxPoint x="110" y="160" as="targetPoint" />
+            <mxPoint x="260.19000000000005" y="120" as="sourcePoint" />
+            <mxPoint x="259.99571428571426" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-5" value="&lt;div&gt;6-mer&lt;/div&gt;Tokenization" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
