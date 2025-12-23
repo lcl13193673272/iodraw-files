@@ -34,8 +34,8 @@
         <mxCell id="xcMAfqUjun9CDwAIhfG4-12" value="Multi-Head Attention" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="75" y="287.5" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="xcMAfqUjun9CDwAIhfG4-13" value="Transformer Decoder" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="490" width="160" height="30" as="geometry" />
+        <mxCell id="xcMAfqUjun9CDwAIhfG4-13" value="Transformer Decoder" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="312.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-14" value="×N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="205" y="312.5" width="30" height="30" as="geometry" />
