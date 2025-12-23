@@ -320,10 +320,10 @@
           <mxGeometry x="250" y="110" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-125" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="51" y="630" width="220" height="70" as="geometry" />
+          <mxGeometry x="50" y="630" width="221" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-120" value="&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;GGGGAGAGGGTGACGATTGCAATGG&amp;nbsp; 1.24&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;GGGAGGGAGGGACAAGCCAGGTTGG&amp;nbsp; 1.24&lt;/span&gt;&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;TGGGGCCTGGGGAGCAGACACCAGGG&amp;nbsp; 1.27&lt;/span&gt;&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;GGGAGGGGAACATCACACTCCGGGG&amp;nbsp; 1.32&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="630" width="290" height="110" as="geometry" />
+          <mxGeometry x="300" y="500" width="390" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
