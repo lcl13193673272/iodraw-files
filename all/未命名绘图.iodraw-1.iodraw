@@ -34,7 +34,7 @@
         <mxCell id="xcMAfqUjun9CDwAIhfG4-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="342.5" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="xcMAfqUjun9CDwAIhfG4-12" value="Multi-Head Attention" style="text;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xcMAfqUjun9CDwAIhfG4-12" value="Multi-Head Attention" style="text;strokeColor=#9673a6;align=center;fillColor=#e1d5e7;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="301.5" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-13" value="Transformer Decoder" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
@@ -43,7 +43,7 @@
         <mxCell id="xcMAfqUjun9CDwAIhfG4-14" value="×N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="326" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xcMAfqUjun9CDwAIhfG4-15" value="Feedforward Networks" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xcMAfqUjun9CDwAIhfG4-15" value="Feedforward Networks" style="text;strokeColor=#d6b656;align=center;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="342.5" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
