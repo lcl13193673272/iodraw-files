@@ -25,11 +25,11 @@
             <mxPoint x="162" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xcMAfqUjun9CDwAIhfG4-173" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="180.0000000000001" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;6-mer&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Tokenization&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="102" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcMAfqUjun9CDwAIhfG4-173" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="330.0000000000001" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="321.5" width="130" height="35" as="geometry" />
