@@ -8,10 +8,10 @@
           <mxGeometry x="40" y="120" width="160" height="440" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-2" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_mini_2;fillColor=#2072B8;" vertex="1" parent="1">
-          <mxGeometry x="70" y="150" width="60" height="50" as="geometry" />
+          <mxGeometry x="90" y="150" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-3" value="&lt;b&gt;G4 Bank&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="130" width="60" height="20" as="geometry" />
+          <mxGeometry x="90" y="130" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
