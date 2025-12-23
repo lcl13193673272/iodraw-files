@@ -525,7 +525,13 @@
           <mxGeometry x="394" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-180" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;GGGAG...GGGG&lt;/span&gt;&lt;span style=&quot;color: rgb(231, 199, 85); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start; background-color: initial;&quot;&gt;0.686&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;AGGGG...TGGG&lt;/span&gt;&lt;span style=&quot;color: rgb(231, 199, 85); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start; background-color: initial;&quot;&gt;0.323&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="50" width="130" height="60" as="geometry" />
+          <mxGeometry x="320" y="60" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xcMAfqUjun9CDwAIhfG4-181" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290.19000000000005" y="140" as="sourcePoint" />
+            <mxPoint x="290" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
