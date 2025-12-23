@@ -14,7 +14,7 @@
           <mxGeometry x="80" y="296" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-2" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_mini_2;fillColor=#2072B8;" vertex="1" parent="1">
-          <mxGeometry x="130" y="144" width="60" height="50" as="geometry" />
+          <mxGeometry x="130" y="144" width="100" height="46" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-3" value="&lt;b&gt;G4 Bank&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="125" width="60" height="20" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="10" y="324.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-14" value="×N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="325" width="30" height="30" as="geometry" />
+          <mxGeometry x="230" y="326" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-15" value="Feedforward Networks" style="text;strokeColor=#d6b656;align=center;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="342.5" width="130" height="35" as="geometry" />
