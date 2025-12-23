@@ -325,6 +325,12 @@
         <mxCell id="xcMAfqUjun9CDwAIhfG4-120" value="&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;GGGGAGAGGGTGACGATTGCAATGG 1.24&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;GGGAGGGAGGGACAAGCCAGGTTGG 1.24&lt;/span&gt;&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;TGGGGCCTGGGGAGCAGACACCAGGG 1.27&lt;/span&gt;&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;GGGAGGGGAACATCACACTCCGGGG 1.32&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="46" y="635" width="230" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xcMAfqUjun9CDwAIhfG4-127" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350.19000000000005" y="290" as="sourcePoint" />
+            <mxPoint x="350" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
