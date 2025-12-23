@@ -350,7 +350,7 @@
           <mxGeometry x="600" y="160" width="240" height="560" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-133" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="160" width="240" height="560" as="geometry" />
+          <mxGeometry x="940" y="160" width="240" height="560" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-134" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#5C5C5C;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="600" y="40" width="240" height="120" as="geometry" />
@@ -374,9 +374,7 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="420.00000000000006" as="sourcePoint" />
             <mxPoint x="639.76" y="420.8" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="619.76" y="420.8" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
