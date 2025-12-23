@@ -19,7 +19,7 @@
         <mxCell id="xcMAfqUjun9CDwAIhfG4-3" value="&lt;b&gt;G4 Bank&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="125" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xcMAfqUjun9CDwAIhfG4-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="xcMAfqUjun9CDwAIhfG4-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xcMAfqUjun9CDwAIhfG4-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160.19000000000005" y="197" as="sourcePoint" />
             <mxPoint x="160" y="277" as="targetPoint" />
