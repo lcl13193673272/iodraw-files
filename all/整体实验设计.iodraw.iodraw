@@ -545,7 +545,7 @@
             <mxPoint x="459.81" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xcMAfqUjun9CDwAIhfG4-185" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;GGGAG...GGGG&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xcMAfqUjun9CDwAIhfG4-185" value="&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;AGGGG...GGG&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="100" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
