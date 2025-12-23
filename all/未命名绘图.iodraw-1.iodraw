@@ -25,7 +25,7 @@
             <mxPoint x="160" y="277" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xcMAfqUjun9CDwAIhfG4-5" value="&lt;div&gt;&lt;b&gt;6-mer&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Tokenization&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="xcMAfqUjun9CDwAIhfG4-5" value="&lt;div&gt;6-mer&lt;/div&gt;Tokenization" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="100" y="220" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-18" value="Fituning" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="150" y="222" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xcMAfqUjun9CDwAIhfG4-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
