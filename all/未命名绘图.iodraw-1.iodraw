@@ -64,11 +64,6 @@
             <mxPoint x="160" y="630.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xcMAfqUjun9CDwAIhfG4-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="xcMAfqUjun9CDwAIhfG4-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160.0000000000001" y="630.0000000000002" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-26" value="G4Hunter" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="115" y="580" width="60" height="30" as="geometry" />
         </mxCell>
@@ -323,6 +318,9 @@
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-117" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="250" y="110" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="xcMAfqUjun9CDwAIhfG4-119" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="500" width="220" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
