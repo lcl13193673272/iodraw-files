@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-5" value="&lt;div&gt;6-mer&lt;/div&gt;Tokenization" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="67" y="220" width="70" height="30" as="geometry" />
+          <mxGeometry x="80" y="220" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="280" width="170" height="95" as="geometry" />
