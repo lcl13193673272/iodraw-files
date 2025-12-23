@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xcMAfqUjun9CDwAIhfG4-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="280" width="220" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-16" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="290" width="180" height="100" as="geometry" />
+          <mxGeometry x="430" y="300" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="200" height="480" as="geometry" />
@@ -24,9 +27,6 @@
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-5" value="&lt;div&gt;6-mer&lt;/div&gt;Tokenization" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="80" y="220" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xcMAfqUjun9CDwAIhfG4-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402" y="280" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="305.5" width="130" height="35" as="geometry" />
