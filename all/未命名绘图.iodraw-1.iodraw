@@ -320,7 +320,7 @@
           <mxGeometry x="250" y="110" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-119" value="&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;GGGGAGAGGGTGACGATTGCAATGG&amp;nbsp; 1.24&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;GGGAGGGAGGGACAAGCCAGGTTGG&amp;nbsp; 1.24&lt;/span&gt;&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;TGGGGCCTGGGGAGCAGACACCAGGG&amp;nbsp; 1.27&lt;/span&gt;&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(216, 134, 131); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: start;&quot;&gt;GGGAGGGGAACATCACACTCCGGGG&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="52" y="629" width="238" height="70" as="geometry" />
+          <mxGeometry x="43" y="629" width="238" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
