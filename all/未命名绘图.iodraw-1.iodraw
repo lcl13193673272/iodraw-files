@@ -13,10 +13,10 @@
         <mxCell id="xcMAfqUjun9CDwAIhfG4-3" value="&lt;b&gt;G4 Bank&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="70" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xcMAfqUjun9CDwAIhfG4-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="xcMAfqUjun9CDwAIhfG4-1">
+        <mxCell id="xcMAfqUjun9CDwAIhfG4-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="114.66" as="sourcePoint" />
-            <mxPoint x="300" y="114.66" as="targetPoint" />
+            <mxPoint x="270" y="360" as="sourcePoint" />
+            <mxPoint x="350" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xcMAfqUjun9CDwAIhfG4-5" value="Tokenization" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
