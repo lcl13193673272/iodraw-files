@@ -19,7 +19,7 @@
             <mxPoint x="330" y="114.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xcMAfqUjun9CDwAIhfG4-5" value="Tokenization" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xcMAfqUjun9CDwAIhfG4-5" value="&lt;div&gt;6-mer&lt;/div&gt;Tokenization" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="80" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
