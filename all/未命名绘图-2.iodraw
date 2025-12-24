@@ -245,6 +245,39 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="SJLpmLB5trMsfqD7hijb-56" value="" style="endArrow=none;html=1;rounded=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-190" y="336.34000000000003" as="sourcePoint" />
+            <mxPoint x="-70" y="336.34000000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-170" y="356.34000000000003" />
+              <mxPoint x="-130" y="326.34000000000003" />
+              <mxPoint x="-100" y="356.34000000000003" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJLpmLB5trMsfqD7hijb-57" value="" style="endArrow=none;html=1;rounded=0;curved=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-190" y="346.34000000000003" as="sourcePoint" />
+            <mxPoint x="-70" y="346.34000000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-170" y="366.34000000000003" />
+              <mxPoint x="-130" y="336.34000000000003" />
+              <mxPoint x="-100" y="366.34000000000003" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJLpmLB5trMsfqD7hijb-58" value="" style="endArrow=none;html=1;rounded=0;curved=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-190" y="356.34000000000003" as="sourcePoint" />
+            <mxPoint x="-70" y="356.34000000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-170" y="376.34000000000003" />
+              <mxPoint x="-130" y="346.34000000000003" />
+              <mxPoint x="-100" y="376.34000000000003" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
