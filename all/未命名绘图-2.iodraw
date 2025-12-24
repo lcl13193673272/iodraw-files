@@ -139,7 +139,7 @@
         <mxCell id="SJLpmLB5trMsfqD7hijb-28" value="Analysis" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="273" y="296.34000000000003" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SJLpmLB5trMsfqD7hijb-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="SJLpmLB5trMsfqD7hijb-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SJLpmLB5trMsfqD7hijb-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="360" as="sourcePoint" />
             <mxPoint x="690" y="336" as="targetPoint" />
